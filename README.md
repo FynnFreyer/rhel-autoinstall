@@ -2,6 +2,9 @@
 
 Build a USB that automatically installs a preconfigured RHEL system from a pen drive.
 
+Consult the [documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/automatically_installing_rhel/index) on automatically installing RHEL.
+It documents the kickstart file syntax and available commands.
+
 ## Steps
 
 1. Download the base ISO file, e.g., from [here](https://rockylinux.org/download).
